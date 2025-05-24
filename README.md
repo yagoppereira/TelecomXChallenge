@@ -1,6 +1,6 @@
 # TelecomX Challenge - Análise de Churn
 ## 🚀 Sobre o Projeto
-Este projeto tem como objetivo realizar uma análise aprofundada sobre o Churn de clientes em uma empresa de Telecomunicações. Através de técnicas de análise exploratória de dados (EDA), visualização e geração de insights, buscamos entender os principais fatores que levam os clientes a cancelarem seus serviços.
+Este projeto tem como objetivo realizar uma análise aprofundada sobre o Churn de clientes em uma empresa de Telecomunicações. Através de técnicas de análise exploratória de dados (EDA), visualização e geração de insights, buscamos entender os principais fatores que levam os clientes a cancelarem seus serviços. Isto é feito através da composição de tratamento da base de dados, manipulação dela, criação de gráficos e análise descritiva dos resultados.
 
 ## 🔍 O que você vai encontrar aqui
 ✔️ Análise demográfica dos clientes (gênero, idade, dependentes, parceiros)
